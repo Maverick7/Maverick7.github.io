@@ -1,9 +1,13 @@
-# Code-Tard 
-## Journey of a Irrational Coder
-This is a blockquote following a header.
+#DEMOS
 
-When something is important enough, you do it even if the odds are not in your favor.
-### header 2
-<code> alert("hello")</code>
-#### header 4
-fdgfgkj dfhkdf hf
+## UI/UX
+### An Ebook Application
+
+<blockquote><a href="http://maverick7.github.io/Ebook_App/">Ebook Template</a></blockquote>
+
+## Machine -Learning
+### Recommendation System - using Jquery
+
+<blockquote><a href="https://maverick7.github.io/Recommender-System/RecommenderSystem.html">Movie Review - Recommendations</a></blockquote>
+
+
